@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-xstate-colourchanger/static/css/main.26955afe.chunk.css",
-    "main.js": "/react-xstate-colourchanger/static/js/main.67007cd4.chunk.js",
-    "main.js.map": "/react-xstate-colourchanger/static/js/main.67007cd4.chunk.js.map",
-    "runtime-main.js": "/react-xstate-colourchanger/static/js/runtime-main.04659b03.js",
-    "runtime-main.js.map": "/react-xstate-colourchanger/static/js/runtime-main.04659b03.js.map",
-    "static/js/2.f8e1c199.chunk.js": "/react-xstate-colourchanger/static/js/2.f8e1c199.chunk.js",
-    "static/js/2.f8e1c199.chunk.js.map": "/react-xstate-colourchanger/static/js/2.f8e1c199.chunk.js.map",
-    "index.html": "/react-xstate-colourchanger/index.html",
-    "static/css/main.26955afe.chunk.css.map": "/react-xstate-colourchanger/static/css/main.26955afe.chunk.css.map",
-    "static/js/2.f8e1c199.chunk.js.LICENSE.txt": "/react-xstate-colourchanger/static/js/2.f8e1c199.chunk.js.LICENSE.txt"
+    "main.css": "/erikkindberg/react-xstate-colourchanger/static/css/main.26955afe.chunk.css",
+    "main.js": "/erikkindberg/react-xstate-colourchanger/static/js/main.d8410913.chunk.js",
+    "main.js.map": "/erikkindberg/react-xstate-colourchanger/static/js/main.d8410913.chunk.js.map",
+    "runtime-main.js": "/erikkindberg/react-xstate-colourchanger/static/js/runtime-main.dd0cc4a7.js",
+    "runtime-main.js.map": "/erikkindberg/react-xstate-colourchanger/static/js/runtime-main.dd0cc4a7.js.map",
+    "static/js/2.2b49c879.chunk.js": "/erikkindberg/react-xstate-colourchanger/static/js/2.2b49c879.chunk.js",
+    "static/js/2.2b49c879.chunk.js.map": "/erikkindberg/react-xstate-colourchanger/static/js/2.2b49c879.chunk.js.map",
+    "index.html": "/erikkindberg/react-xstate-colourchanger/index.html",
+    "static/css/main.26955afe.chunk.css.map": "/erikkindberg/react-xstate-colourchanger/static/css/main.26955afe.chunk.css.map",
+    "static/js/2.2b49c879.chunk.js.LICENSE.txt": "/erikkindberg/react-xstate-colourchanger/static/js/2.2b49c879.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.04659b03.js",
-    "static/js/2.f8e1c199.chunk.js",
+    "static/js/runtime-main.dd0cc4a7.js",
+    "static/js/2.2b49c879.chunk.js",
     "static/css/main.26955afe.chunk.css",
-    "static/js/main.67007cd4.chunk.js"
+    "static/js/main.d8410913.chunk.js"
   ]
 }
